@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bharadfi@mail.uc.edu or fbharadwaj02@gmail.com**
 
-- 📄 Know about my experiences [posting soon](posting soon)
+- 📄 Know about my experiences [Online Resume](https://fbharadwajresume.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
