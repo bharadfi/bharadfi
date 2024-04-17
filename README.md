@@ -4,7 +4,7 @@
         <img src="https://github.com/bharadfi/bharadfi/blob/main/fr.gif"/>
     </h1>
 </div>
-<h3 align="justify">Experienced professional with over 8 years of experience in data analytics, R&D, implementing Machine Learning & AI algorithms to enhance operational efficiency in manufacturing and financial sectors with an inclination towards Data Engineer, Data Analyst, Finance Analyst, Banking Consultant, Supply Chain Analyst, Forecasting Analyst and Data Scientist.</h3>
+<h3 align="justify">Seasoned professional with over 8 years of hands in data analytics, R&D, implementing Machine Learning & AI algorithms to enhance operational efficiency in manufacturing and financial sectors with an inclination towards Data Engineer, Data Analyst, Finance Analyst, Banking Consultant, Supply Chain Analyst, Forecasting Analyst and Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadfi&label=Profile%20views&color=0e75b6&style=flat" alt="bharadfi" /> </p>
 
